@@ -1,0 +1,11 @@
+1) check to make sure only one extra string is in the command line 
+2) do the for loop that checks to see if all strings are integers. 
+*how to check if a character is an integer? 
+3) Convert the string to int maybe using this: int c = (int) s[i]; (that ended up being wrong)
+4) prompt uder for plaintext using get_string
+5) iterate over each character of the string: for (int i = 0; i < strlen(s); i++)
+    1) For uppercase letters, shift the letter by whatever the key is
+    2) for lowercase letters, shift the letter by whatever the key is
+    3) for other characters, do nothing
+6) print the cipher text and a new line
+    
