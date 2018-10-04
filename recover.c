@@ -29,9 +29,6 @@ int main(int argc, char *argv[])
     // initialize counter, which will keep track of how many JPEGs we have found
     int counter = 0;
 
-    // initialize this so we know later that we have not yet seen a jpeg (indicates we are on the first jpeg)
-    int injpeg = 0;
-
     // assign jpeg as an array of characters (the lenghth used is arbitrary)
     char jpeg[50];
 
@@ -45,7 +42,7 @@ int main(int argc, char *argv[])
         if (buffer[0] == 0xff && buffer[1] == 0xd8 && buffer[2] == 0xff && (buffer[3] & 0xf0) == 0xe0)
         {
             // if this is not the first jpeg we've seen, close current file before continuing
-            if (injpeg == 1)
+            if (counter != 0)
             {
                 fclose(img);
             }
@@ -57,12 +54,9 @@ int main(int argc, char *argv[])
 
             // keeps track of file number
             counter ++;
-
-            // once we pass this step, we are in a jpeg and need it to be known!
-            injpeg = 1;
         }
         // if we are in a jpeg, we have to recover 512 bytes (write them into the jpeg file). Otherwise, just go to next block
-        if (injpeg == 1)
+        if (counter != 0)
         {
             fwrite(&buffer, 512, 1, img);
         }
