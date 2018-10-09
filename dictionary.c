@@ -29,7 +29,7 @@ int counter = 0;
 // Hashes word to a number between 0 and 26, inclusive, based on its first letter.
 unsigned int hash(const char *word)
 {
-    return tolower(word[0])- 'a';
+    return tolower(word[0]) - 'a';
 }
 
 // Loads dictionary into memory, returning true if successful else false
@@ -101,7 +101,7 @@ bool check(const char *word)
         {
             return true;
         }
-            cursor = cursor->next;
+        cursor = cursor->next;
     }
     return false;
 }
