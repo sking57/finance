@@ -54,22 +54,22 @@ bool load(const char *dictionary)
         node *head = hashtable[hash(word)];
 
         // unload dictionary and stop program if the new node points to nothing (this happens when we run out of space)
-	    if (new_node == NULL)
-	    {
-		    unload();
-		    return false;
-	    }
-	    // when new_node does exist, copy each word from the dictionary into a node
-	    strcpy(new_node->word, word);
+        if (new_node == NULL)
+        {
+            unload();
+            return false;
+        }
+        // when new_node does exist, copy each word from the dictionary into a node
+        strcpy(new_node->word, word);
 
-	    // make linked list while making sure we don’t lose information/nodes in our linked list
-	    new_node->next = head;
+        // make linked list while making sure we don’t lose information/nodes in our linked list
+        new_node->next = head;
 
-	    // assign each word to a bucket
-	    hashtable[hash(word)] = new_node;
+        // assign each word to a bucket
+        hashtable[hash(word)] = new_node;
 
-	    // keep track of how many words are sorted
-	    counter ++;
+        // keep track of how many words are sorted
+        counter ++;
     }
 
     // Close dictionary
