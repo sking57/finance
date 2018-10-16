@@ -1,0 +1,80 @@
+body
+{
+    background-color: lightblue;
+    text-align: center;
+}
+
+header
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+main
+{
+    text-align: center;
+}
+q
+{
+    font-style: italic;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 23px;
+    font-family: "Courier New";
+}
+p
+{
+    font-family: "Courier New";
+}
+#sarah
+{
+    width:600px;
+    height:450px;
+}
+#donut
+{
+    width:700px;
+    height:600px;
+}
+ul
+{
+    font-family: "Courier New";
+}
+footer
+{
+    text-align: left;
+    font-family: "Courier New";
+}
+#blue
+{
+    color: SlateBlue;
+}
+#tomato
+{
+    color: Tomato;
+}
+#green
+{
+    color: MediumSeaGreen;
+}
+.container
+{
+    font-family: "Courier New";
+    color: green;
+}
+#lead
+{
+    color: black;
+    font-weight: bold;
+}
+#infopage
+{
+    background-color: lightyellow;
+}
+#quotepage
+{
+    background-color: lightpink;
+}
