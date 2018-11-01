@@ -1,0 +1,14 @@
+body
+{
+    background-color: lavender;
+}
+h1
+{
+    font-size: 23px;
+}
+#title
+{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
