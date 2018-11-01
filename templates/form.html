@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+    <!-- http://getbootstrap.com/docs/4.1/content/typography/ -->
+    <h1 class="mb-3" id="title">Very Important Personal Information</h1> <br>
+
+    <!-- http://getbootstrap.com/docs/4.1/components/forms/ -->
+    <form action="/form" method="post">
+        First name:<br>
+        <input type="text" name="firstname" id="firstname" class = "form-group row"><br>
+        Last name:<br>
+        <input type="text" name="lastname" id="lastname" class = "form-group row"><br>
+        <h1 id="scent">Pick your favorite scent</h1>
+        <input type="radio" name="scent" value="lavender" checked> lavender<br>
+        <input type="radio" name="scent" value="vanilla"> vanilla<br>
+        <input type="radio" name="scent" value="freshly cut grass"> freshly cut grass<br><br>
+        <h1>Pick your favorite type of cheese</h1>
+        <input type="radio" name="cheese" value="cheddar" checked> cheddar<br>
+        <input type="radio" name="cheese" value="brie"> brie<br>
+        <input type="radio" name="cheese" value="gouda"> gouda<br>
+        <input type="radio" name="cheese" value="mozzarella"> mozzarella<br><br>
+        <h1>Graduation year</h1>
+        <select name="gradyear">
+                <option disabled selected value="">Graduation year</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+        </select> <br> <br>
+
+        <!-- http://getbootstrap.com/docs/4.1/components/buttons/ -->
+        <button class="btn btn-primary" type="submit" class = "form-group row">Submit</button>
+
+    </form>
+
+    <script>
+
+        document.querySelector('form').onsubmit = function() {
+            if (!document.querySelector('#firstname').value) {
+                alert('You must provide your first name!');
+                return false;
+            }
+            else if (!document.querySelector('#lastname').value) {
+                alert('You must provide your last name!');
+                return false;
+            }
+            else if (!document.querySelector('input').value) {
+                alert('You must provide your favorite scent and cheese!');
+                return false;
+            }
+            else if (!document.querySelector('select').value) {
+                alert('You must provide your graduation year!');
+                return false;
+            }
+            return true;
+        };
+
+
+    </script>
+
+
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Scent</th>
+      <th scope="col">Cheese</th>
+      <th scope="col">Class</th>
+    </tr>
+  </thead>
+  <tbody>
+     {% for result in results %}
+        <tr>
+          <td>{{result["firstname"]}}</td>
+          <td>{{result["lastname"]}}</td>
+          <td>{{result["scent"]}}</td>
+          <td>{{result["cheese"]}}</td>
+          <td>{{result["gradyear"]}}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}
