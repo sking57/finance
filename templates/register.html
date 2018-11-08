@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block main %}
+    <form id="register_form" action="/register" method="post">
+        <div class="form-group">
+            <input id="uname" autocomplete="off" autofocus class="form-control" name="username" placeholder="Username" type="text" required>
+        </div>
+        <div class="form-group">
+            <input class="form-control" name="password" placeholder="Password" type="password">
+        </div>
+        <div class="form-group">
+            <input class="form-control" name="confirmation" placeholder="Confirmation" type="password">
+        </div>
+        <button class="btn btn-primary" type="submit">Register</button>
+    </form>
+    <script>
+        document.querySelector('form').onsubmit = function() {
+            // pass the current username into check as the username value
+            $.get('/check?username=' + document.querySelector('input[name="username"]').value, function(data)
+            {
+            // if data that is returned is true, submit form. Function will deal with what happens when we get a response from check
+                if(data){
+                    document.getElementById("register_form").submit();
+                }
+                else{
+                    alert("username already exists!");
+                    return false;
+                }
+            return true;
+            })
+        }
+    </script>
+{% endblock %}
