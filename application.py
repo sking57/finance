@@ -50,6 +50,7 @@ def index():
     for row in rows:
         quote = lookup(row["symbol"])
         current_price = (quote["price"])
+        # update price column of table
         row["price"] = current_price
         price_array.append(current_price)
     # include current cash value in index table
@@ -66,6 +67,7 @@ def buy():
         # ensure everything was inputted
         if not request.form.get("shares") or not request.form.get("symbol"):
             return apology("fill out all fields", 400)
+        # ensure user inputted a digit for shares
         if not request.form.get("shares").isdigit():
             return apology("must input integer", 400)
         shares = float(request.form.get("shares"))
@@ -83,6 +85,7 @@ def buy():
         price = quote["price"]
         symbol = quote["symbol"]
         cost = shares*price
+        # get current cash value for user
         rows = db.execute("SELECT * FROM users WHERE id=:id", id=session["user_id"])
         current_cash = rows[0]["cash"]
 
@@ -98,7 +101,7 @@ def buy():
         else:
             return apology("insufficient funds", 403)
 
-        # once table is updated, redirect to index to show html table of current holds
+        # once table is updated, redirect to / to show index html
         return redirect("/")
 
     else:
@@ -121,6 +124,7 @@ def check():
 @login_required
 def history():
     """Show history of transactions"""
+    # pass history values into html table
     rows = db.execute("SELECT * FROM history WHERE id=:id", id=session["user_id"])
     return render_template("history.html", rows=rows)
 
@@ -266,7 +270,7 @@ def sell():
         row = db.execute("SELECT * FROM users WHERE id=:id", id=session["user_id"])
         current_cash = row[0]["cash"]
 
-        # retrieve the row from portfolio with the same symbol so we can access information from it
+        # retrieve the rows from portfolio with the same symbol so we can access information from it
         rows = db.execute("SELECT * FROM portfolio WHERE symbol=:symbol AND id=:id", symbol=symbol, id=session["user_id"])
 
         # if user has enough shares of the certain stock, add stock to history table and update the cash value of user
