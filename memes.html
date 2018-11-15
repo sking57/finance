@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Memes</title>
+    </head>
+    <body>
+        <h1>Harvard Memes for Elitist 1% Tweens</h1>
+        <form>
+            <input autofocus autocomplete="off" name="comment" placeholder="Comment" type="text">
+            <input type="submit" value="Post">
+        </form>
+        <ul></ul>
+        <script>
+
+            const FRIENDS = {
+                'Bill Gates': 'BillGates',
+                'Mark Zuckerberg': 'zuck'
+            };
+
+            document.querySelector('form').onsubmit = function(e) {
+                e.preventDefault();
+                let comment = document.querySelector('input[name=comment]');
+                let li = '<li>' + linkify(comment.value) + '</li>';
+                document.querySelector('ul').innerHTML += li;
+                comment.value = '';
+            };
+
+            function linkify(s) {
+                // split string into list of words
+                var wordlist = s.split(" ");
+                // empty array to fill
+                var string1 = [];
+                // create array of keys and values from FRIENDS
+                var usernames = Object.values(FRIENDS);
+                var names = Object.keys(FRIENDS);
+                // since names is an array of first and last names, check if it includes the concatination of each pair of words in
+                // the comment
+                for (var i = 0; i < ((wordlist.length) - 1); i++) {
+                    var person = wordlist[i].concat(" ",wordlist[i+1]);
+                    if (names.includes(person)) {
+                        // hyperlink the name of the tagged person to their facebook page
+                        wordlist[i] = person.link("https://www.facebook.com/"+usernames[names.indexOf(person)]);
+                        // make sure to update the next portion of the list as well
+                        wordlist[i+1] = ""
+                    }
+                }
+                return wordlist.join(" ");
+            }
+
+        </script>
+    </body>
+</html>
