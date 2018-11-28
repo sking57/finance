@@ -2,11 +2,11 @@
 
 #### Your name
 
-Sarah King
+Nellie Ide
 
 #### Your section leader's name
 
-Hanna Kim
+Toby Satterthwaite
 
 #### Project title
 
