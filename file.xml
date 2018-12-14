@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<search>
+  <total_items>11007</total_items>
+  <page_size>10</page_size>
+  <page_count>1101</page_count>
+  <page_number>1</page_number>
+  <page_items></page_items>
+  <first_item></first_item>
+  <last_item></last_item>
+  <search_time>0.347</search_time>
+  <events>
+    <event id="E0-001-118718978-3">
+      <title>Farm-to-KITCHEN Cooking Class: Regions of Italy, North vs. South</title>
+      <url>http://boston.eventful.com/events/farmtokitchen-cooking-class-regions-italy-north-v-/E0-001-118718978-3?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Farm-to-KITCHEN Cooking Class: Regions of Italy, North vs. South Presented by The Trustees No one does pasta like the Italians (a well know fact!), but did you know that flavors and shapes can vary widely based on region? We&amp;#39;re exploring the differences and similarities of traditional pasta dishes of Northern and Southern regions of Italy in this very special Farm-to-KITCHEN cooking class. Join us for a seasonal &amp; local twist on the flavors of Emilia Romagna region in the North and the Puglia region in the South. The majority of ingredients for the class will be straight from The Boston Public Market, proving you can buy local, eat local and still achieve international flavors.  Led by Chef Juli, this class will emphasize classic recipes she learned while teaching farm-to-table cooking classes in Italy&amp;#39;s capital city for four years (and can tell you a story or two!). She spent her weekends exploring the different regions of Italy and wants to give you a similar experience through food. Juli&amp;#39;s recipes will awaken your senses and introduce you to new options for flavorful meals at home. In addition to learning a new cooking style, you&amp;#39;ll enjoy tastes of three local New England wines that pair perfectly with recipes we’ll be making, courtesy of The Massachusetts Wine Shop. Dates:  Sunday, January 13 from 1:00-3:00 pm Sunday, January 27 from 1:00-3:00 pm Sunday, January 27 from 4:00-6:00 PM Saturday, March 16 from 1:00-3:00 PM Saturday, March 16 from 5:00-7:00 PM Menu:  Stuffed cappellacci di zucca (pumpkin ravioli) from Northern Italy with sage, pumpkin puree and a warm butter sauce and pumpkin seeds. Attendees make pasta from scratch. Local ingredients: stone ground Four Star Farms wheat flour, pumpkin seeds from Q’s nuts, Chestnut Farms eggs, pumpkin from Siena farms and guanciale from Stillman’s Meats. Campanelle (bells) with mushrooms and spicy sausage (n’duja) from Southern Italy. Local ingredients include pasta from Law of Pasta, mushrooms from Siena Farms, sausage from Chestnut Farms. Simple panna cotta using fresh cream from Appleton Farms, honey from Boston Honey Co. and shaved Taza Chocolate This menu can be made vegetarian, but not gluten-free or vegan. Please contact kitcheninfo@thetrustees.org to let us know if you need a vegetarian option or to inquire about other allergies. Our hands-on cooking classes are structured as a group learning experience; you’ll work with other students to create a seasonal meal led by our professional chef instructors. We focus on learning new cooking styles and techniques to increase your confidence and enjoyment in your own kitchen. Here are a few things to know before booking a class with us: Each class is centered on the local, seasonal farmers and artisans of the Boston Public Market, so menus may change slightly based on what’s available the day of the event. During each class, you’ll learn 2 or 3 recipes, you’ll work with between 2 and 4 other students to create each one, and you’ll enjoy a plentiful taste of each. Classes are usually between 2 and 2.5 hours long, unless otherwise noted. Please be prepared to be on your feet, standing at a table, and cooking for the duration of class. We recommend comfortable, non-slip, and closed-toe shoes. Cost is $63 for Trustees member and $79 for Non-Trustees Members. Members must bring their current member card and number. Join The Trustees and save! Members save between 20-40% off all classes in The KITCHEN. About Chef Juli Juli is a former farmer turned cook who has worked as a vegetable farmer, private chef and sustainable food educator throughout Boston and Italy.  After working as a seasonal farmer for Siena Farms she traveled to Italy to &amp;#39;WWOOF&amp;#39; (volunteer farm exchange) on a Chianti Classico vineyard in Tuscany and make sheep&amp;#39;s milk in Abruzzo.  She later returned to Italy to complete a culinary apprenticeship at the American Academy of Rome, an Alice Water&amp;#39;s project, called the Rome Sustainable Food Project.  She has been teaching Roman inspired farm-to-table classes in Rome for the past four years through her own cooking business, Breaking Bread Rome and is excited to bring her adopted Italian culture and cuisine to the Trustees. About The Trustees and The KITCHEN As one of the largest owners of agricultural land and the premier steward of the cultural and natural landscape of Massachusetts, The Trustees extends its leadership to transform the local food system by connecting residents and visitors back to the land and sharing the Commonwealth’s collective agrarian heritage through innovative retail and educational experiences at the Boston Public Market in the heart of downtown Boston. The KITCHEN is a community gathering place, managed by The Trustees, that is restoring the craft of seasonal cooking in Massachusetts, New England, and beyond through hands-on classes and educational experiences that celebrate the farmers and artisans of this region. Partnered with the Boston Public Market, The KITCHEN embraces a whole-food approach to eating and promotes cooking as an essential cornerstone of a sustainable food system. Join The Trustees and receive 20%-50% off all classes, workshops, and events at The KITCHEN and all Trustees properties. </description>
+      <start_time>2019-01-27 13:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-012315004-5</venue_id>
+      <venue_url>http://boston.eventful.com/venues/the-kitchen-presented-by-the-trustees-/V0-001-012315004-5?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>The KITCHEN presented by The Trustees</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>The Boston Public Market , 100 Hanover Street</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3624224</latitude>
+      <longitude>-71.0580511</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-10-02 13:01:50</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:21:53</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-118718975-6">
+      <title>Farm-to-KITCHEN Cooking Class: Regions of Italy, North vs. South</title>
+      <url>http://boston.eventful.com/events/farmtokitchen-cooking-class-regions-italy-north-v-/E0-001-118718975-6?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Farm-to-KITCHEN Cooking Class: Regions of Italy, North vs. South Presented by The Trustees No one does pasta like the Italians (a well know fact!), but did you know that flavors and shapes can vary widely based on region? We&amp;#39;re exploring the differences and similarities of traditional pasta dishes of Northern and Southern regions of Italy in this very special Farm-to-KITCHEN cooking class. Join us for a seasonal &amp; local twist on the flavors of Emilia Romagna region in the North and the Puglia region in the South. The majority of ingredients for the class will be straight from The Boston Public Market, proving you can buy local, eat local and still achieve international flavors.  Led by Chef Juli, this class will emphasize classic recipes she learned while teaching farm-to-table cooking classes in Italy&amp;#39;s capital city for four years (and can tell you a story or two!). She spent her weekends exploring the different regions of Italy and wants to give you a similar experience through food. Juli&amp;#39;s recipes will awaken your senses and introduce you to new options for flavorful meals at home. In addition to learning a new cooking style, you&amp;#39;ll enjoy tastes of three local New England wines that pair perfectly with recipes we’ll be making, courtesy of The Massachusetts Wine Shop. Dates:  Sunday, January 13 from 1:00-3:00 pm Sunday, January 27 from 1:00-3:00 pm Sunday, January 27 from 4:00-6:00 PM Saturday, March 16 from 1:00-3:00 PM Saturday, March 16 from 5:00-7:00 PM Menu:  Stuffed cappellacci di zucca (pumpkin ravioli) from Northern Italy with sage, pumpkin puree and a warm butter sauce and pumpkin seeds. Attendees make pasta from scratch. Local ingredients: stone ground Four Star Farms wheat flour, pumpkin seeds from Q’s nuts, Chestnut Farms eggs, pumpkin from Siena farms and guanciale from Stillman’s Meats. Campanelle (bells) with mushrooms and spicy sausage (n’duja) from Southern Italy. Local ingredients include pasta from Law of Pasta, mushrooms from Siena Farms, sausage from Chestnut Farms. Simple panna cotta using fresh cream from Appleton Farms, honey from Boston Honey Co. and shaved Taza Chocolate This menu can be made vegetarian, but not gluten-free or vegan. Please contact kitcheninfo@thetrustees.org to let us know if you need a vegetarian option or to inquire about other allergies. Our hands-on cooking classes are structured as a group learning experience; you’ll work with other students to create a seasonal meal led by our professional chef instructors. We focus on learning new cooking styles and techniques to increase your confidence and enjoyment in your own kitchen. Here are a few things to know before booking a class with us: Each class is centered on the local, seasonal farmers and artisans of the Boston Public Market, so menus may change slightly based on what’s available the day of the event. During each class, you’ll learn 2 or 3 recipes, you’ll work with between 2 and 4 other students to create each one, and you’ll enjoy a plentiful taste of each. Classes are usually between 2 and 2.5 hours long, unless otherwise noted. Please be prepared to be on your feet, standing at a table, and cooking for the duration of class. We recommend comfortable, non-slip, and closed-toe shoes. Cost is $63 for Trustees member and $79 for Non-Trustees Members. Members must bring their current member card and number. Join The Trustees and save! Members save between 20-40% off all classes in The KITCHEN. About Chef Juli Juli is a former farmer turned cook who has worked as a vegetable farmer, private chef and sustainable food educator throughout Boston and Italy.  After working as a seasonal farmer for Siena Farms she traveled to Italy to &amp;#39;WWOOF&amp;#39; (volunteer farm exchange) on a Chianti Classico vineyard in Tuscany and make sheep&amp;#39;s milk in Abruzzo.  She later returned to Italy to complete a culinary apprenticeship at the American Academy of Rome, an Alice Water&amp;#39;s project, called the Rome Sustainable Food Project.  She has been teaching Roman inspired farm-to-table classes in Rome for the past four years through her own cooking business, Breaking Bread Rome and is excited to bring her adopted Italian culture and cuisine to the Trustees. About The Trustees and The KITCHEN As one of the largest owners of agricultural land and the premier steward of the cultural and natural landscape of Massachusetts, The Trustees extends its leadership to transform the local food system by connecting residents and visitors back to the land and sharing the Commonwealth’s collective agrarian heritage through innovative retail and educational experiences at the Boston Public Market in the heart of downtown Boston. The KITCHEN is a community gathering place, managed by The Trustees, that is restoring the craft of seasonal cooking in Massachusetts, New England, and beyond through hands-on classes and educational experiences that celebrate the farmers and artisans of this region. Partnered with the Boston Public Market, The KITCHEN embraces a whole-food approach to eating and promotes cooking as an essential cornerstone of a sustainable food system. Join The Trustees and receive 20%-50% off all classes, workshops, and events at The KITCHEN and all Trustees properties. </description>
+      <start_time>2019-01-13 13:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-012315004-5</venue_id>
+      <venue_url>http://boston.eventful.com/venues/the-kitchen-presented-by-the-trustees-/V0-001-012315004-5?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>The KITCHEN presented by The Trustees</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>The Boston Public Market , 100 Hanover Street</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3624224</latitude>
+      <longitude>-71.0580511</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-10-02 13:01:35</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:21:53</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/385/213-6.jpeg_/farmtokitchen-cooking-class-regions-italy-north-vs-13.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-118704758-4">
+      <title>Farm-to-KITCHEN Cooking Class: Seasonal Paleo with Dolly's Whole Life and Chef Cleo</title>
+      <url>http://boston.eventful.com/events/farmtokitchen-cooking-class-seasonal-paleo-dollys-/E0-001-118704758-4?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Farm-to-KITCHEN Cooking Class: Seasonal Paleo with Dolly&amp;#39;s Whole Life and Chef Cleo Presented by The Trustees It&amp;#39;s time for a New Year, New You refresh. We&amp;#39;re partnering with Dolly Sengsavang, the Whole30-certified coach behind Dolly&amp;#39;s Whole Life. Together with our own Chef Cleo, Dolly is bringing a locally-sourced, three-course menu focused on whole foods and packed with flavor to realign your body after the holidays and increase your comfort in the kitchen. Let Dolly and Cleo guide you through the practice of eating paleo in the most delicious and seasonal way possible. Get back to the basics of cooking and eating in the New Year and cook your way to your best self! What&amp;#39;s Paleo you ask? The Paleo or Paleolithic diet is considered the first human diet. Paleo is simply the idea and framework of eating nutrient dense foods like vegetables, meats, seafood, and some nuts and fruit to help improve your health through food. While eating Paleo it is best to avoid foods that tend to be more harmful than healthful such as processed foods, added sugars, grains, legumes, and dairy. In short, the Paleo diet is about eating real whole foods so you can feel your absolute best while healing and nourishing your body. The Menu: Roasted Carrot and Coconut Soup sourcing veggies and herbs from Stillman&amp;#39;s Farm Peruvian roasted chicken from Chestnut Farms with aji verde (green sauce) made with local herbs  Roasted Yucca &amp;quot;fries&amp;quot; from Siena Farms Massaged kale salad with Q&amp;#39;s nuts and sweet &amp; sour apple and cashew vinaigrette  This menu is gluten free and dairy free; however, we are not a certified gluten free or dairy free kitchen, so there&amp;#39;s always a slight risk of contamination. This menu can be made vegetarian or vegan, upon request. Please email kitcheninfo@thetrustees.org with dietary preferences, vegetarian orders, or allergy information. In this lively, hands-on cooking class you’ll learn how to utilize the produce and products of the farmers and artisans of the Boston Public Market. Guided by Chef Cleo and Dolly you’ll create an exciting three-course meal based on seasonal, local food, and increase your comfort in the kitchen through new knife skills, techniques, and flavor profiles. Come ready to roll up your sleeves and get cooking!   Dates: Sunday, January 13 from 4:00-6:00 pm Sunday, February 3 from 4:00-6:00 pm Sunday, March 10 from 4:00-6:00 pm Our hands-on cooking classes are structured as a group learning experience; you’ll work with other students to create a seasonal meal led by our professional chef instructors. We focus on learning new cooking styles and techniques to increase your confidence and enjoyment in your own kitchen. Here are a few things to know before booking a class with us: Each class is centered on the local, seasonal farmers and artisans of the Boston Public Market, so menus may change slightly based on what’s available the day of the event. During each class, you’ll learn 2 or 3 recipes, you’ll work with between 2 and 4 other students to create each one, and you’ll enjoy a plentiful taste of each. Classes are usually between 2 and 2.5 hours long, unless otherwise noted. Please be prepared to be on your feet, standing at a table, and cooking for the duration of class. We recommend comfortable, non-slip, and closed-toe shoes. Along with our vendor-partners from the Boston Public Market, we will be sourcing ingredients from the following companies. Kettle &amp; Fire Bone Broth Yai&amp;#39;s Thai Sauces Georgia Grinders Tickets: $60 for Trustees member and $75 for Non-Trustees Members. Members must bring their current member card and number. Join The Trustees and save! Members save between 20-40% off all classes in The KITCHEN. About Dolly Segsavang Dolly Sengsavang is a recipe developer and health &amp; wellness blogger at Dolly&amp;#39;s Whole Life. She&amp;#39;s also a Whole30 certified coach and has been coaching dozens of clients through the program to ensure they successfully complete a round for the past 6 months. Dolly&amp;#39;s an advocate for living &amp; leading a healthy lifestyle that is accessible and inclusive to all demographics. Her recipes are simple but packed with flavor using ingredients that can be found locally. Her goal is to continue making waves in the health &amp; wellness industry to end the pretentious stigma, and to show doing programs like the Whole30 doesn’t require trips to a fancy health food store, and eating healthy doesn&amp;#39;t mean compromising flavor. About Chef Cleo Bell Cleo was born and raised in Washington, DC. She attended McGill University in Montreal and has a BA in Cultural Anthropology. After graduating, she moved back to DC and began working at local restaurants, such as Againn, a British Isles-inspired gastro-pub and Komi, a high-end Mediterranean restaurant. She has spent 2 summers as the Head Chef for the Hog Island National Audubon Society summer camp in Maine, working with local farms to bring fresh food to the Island and to happy campers. Cleo is thrilled to have the opportunity to cook and teach at Boston Public Market, with the whole Market to source from and the whole of Boston to serve. At first glance, it might seem a strange road from cultural anthropology to cooking, but food and cooking are integral to the expression and transference of culture. As they say: culture begins at the table. By concentrating on serving local, sustainable foods, Cleo hopes to elevate the experience of the diner and to make a positive impact on the local food community. About The Trustees and The KITCHEN As one of the largest owners of agricultural land and the premier steward of the cultural and natural landscape of Massachusetts, The Trustees extends its leadership to transform the local food system by connecting residents and visitors back to the land and sharing the Commonwealth’s collective agrarian heritage through innovative retail and educational experiences at the Boston Public Market in the heart of downtown Boston. The KITCHEN is a community gathering place, managed by The Trustees, that is restoring the craft of seasonal cooking in Massachusetts, New England, and beyond through hands-on classes and educational experiences that celebrate the farmers and artisans of this region.  Partnered with the Boston Public Market, The KITCHEN embraces a whole-food approach to eating and promotes cooking as an essential cornerstone of a sustainable food system.  Join the Trustees and recieve discounts on KITCHEN events. Join here.  </description>
+      <start_time>2019-02-03 16:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-012315004-5</venue_id>
+      <venue_url>http://boston.eventful.com/venues/the-kitchen-presented-by-the-trustees-/V0-001-012315004-5?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>The KITCHEN presented by The Trustees</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>The Boston Public Market , 100 Hanover Street</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3624224</latitude>
+      <longitude>-71.0580511</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-10-02 07:00:17</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:21:24</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-118704756-6">
+      <title>Farm-to-KITCHEN Cooking Class: Seasonal Paleo with Dolly's Whole Life and Chef Cleo</title>
+      <url>http://boston.eventful.com/events/farmtokitchen-cooking-class-seasonal-paleo-dollys-/E0-001-118704756-6?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Farm-to-KITCHEN Cooking Class: Seasonal Paleo with Dolly&amp;#39;s Whole Life and Chef Cleo Presented by The Trustees It&amp;#39;s time for a New Year, New You refresh. We&amp;#39;re partnering with Dolly Sengsavang, the Whole30-certified coach behind Dolly&amp;#39;s Whole Life. Together with our own Chef Cleo, Dolly is bringing a locally-sourced, three-course menu focused on whole foods and packed with flavor to realign your body after the holidays and increase your comfort in the kitchen. Let Dolly and Cleo guide you through the practice of eating paleo in the most delicious and seasonal way possible. Get back to the basics of cooking and eating in the New Year and cook your way to your best self! What&amp;#39;s Paleo you ask? The Paleo or Paleolithic diet is considered the first human diet. Paleo is simply the idea and framework of eating nutrient dense foods like vegetables, meats, seafood, and some nuts and fruit to help improve your health through food. While eating Paleo it is best to avoid foods that tend to be more harmful than healthful such as processed foods, added sugars, grains, legumes, and dairy. In short, the Paleo diet is about eating real whole foods so you can feel your absolute best while healing and nourishing your body. The Menu: Roasted Carrot and Coconut Soup sourcing veggies and herbs from Stillman&amp;#39;s Farm Peruvian roasted chicken from Chestnut Farms with aji verde (green sauce) made with local herbs  Roasted Yucca &amp;quot;fries&amp;quot; from Siena Farms Massaged kale salad with Q&amp;#39;s nuts and sweet &amp; sour apple and cashew vinaigrette  This menu is gluten free and dairy free; however, we are not a certified gluten free or dairy free kitchen, so there&amp;#39;s always a slight risk of contamination. This menu can be made vegetarian or vegan, upon request. Please email kitcheninfo@thetrustees.org with dietary preferences, vegetarian orders, or allergy information. In this lively, hands-on cooking class you’ll learn how to utilize the produce and products of the farmers and artisans of the Boston Public Market. Guided by Chef Cleo and Dolly you’ll create an exciting three-course meal based on seasonal, local food, and increase your comfort in the kitchen through new knife skills, techniques, and flavor profiles. Come ready to roll up your sleeves and get cooking!   Dates: Sunday, January 13 from 4:00-6:00 pm Sunday, February 3 from 4:00-6:00 pm Sunday, March 10 from 4:00-6:00 pm Our hands-on cooking classes are structured as a group learning experience; you’ll work with other students to create a seasonal meal led by our professional chef instructors. We focus on learning new cooking styles and techniques to increase your confidence and enjoyment in your own kitchen. Here are a few things to know before booking a class with us: Each class is centered on the local, seasonal farmers and artisans of the Boston Public Market, so menus may change slightly based on what’s available the day of the event. During each class, you’ll learn 2 or 3 recipes, you’ll work with between 2 and 4 other students to create each one, and you’ll enjoy a plentiful taste of each. Classes are usually between 2 and 2.5 hours long, unless otherwise noted. Please be prepared to be on your feet, standing at a table, and cooking for the duration of class. We recommend comfortable, non-slip, and closed-toe shoes. Along with our vendor-partners from the Boston Public Market, we will be sourcing ingredients from the following companies. Kettle &amp; Fire Bone Broth Yai&amp;#39;s Thai Sauces Georgia Grinders Tickets: $60 for Trustees member and $75 for Non-Trustees Members. Members must bring their current member card and number. Join The Trustees and save! Members save between 20-40% off all classes in The KITCHEN. About Dolly Segsavang Dolly Sengsavang is a recipe developer and health &amp; wellness blogger at Dolly&amp;#39;s Whole Life. She&amp;#39;s also a Whole30 certified coach and has been coaching dozens of clients through the program to ensure they successfully complete a round for the past 6 months. Dolly&amp;#39;s an advocate for living &amp; leading a healthy lifestyle that is accessible and inclusive to all demographics. Her recipes are simple but packed with flavor using ingredients that can be found locally. Her goal is to continue making waves in the health &amp; wellness industry to end the pretentious stigma, and to show doing programs like the Whole30 doesn’t require trips to a fancy health food store, and eating healthy doesn&amp;#39;t mean compromising flavor. About Chef Cleo Bell Cleo was born and raised in Washington, DC. She attended McGill University in Montreal and has a BA in Cultural Anthropology. After graduating, she moved back to DC and began working at local restaurants, such as Againn, a British Isles-inspired gastro-pub and Komi, a high-end Mediterranean restaurant. She has spent 2 summers as the Head Chef for the Hog Island National Audubon Society summer camp in Maine, working with local farms to bring fresh food to the Island and to happy campers. Cleo is thrilled to have the opportunity to cook and teach at Boston Public Market, with the whole Market to source from and the whole of Boston to serve. At first glance, it might seem a strange road from cultural anthropology to cooking, but food and cooking are integral to the expression and transference of culture. As they say: culture begins at the table. By concentrating on serving local, sustainable foods, Cleo hopes to elevate the experience of the diner and to make a positive impact on the local food community. About The Trustees and The KITCHEN As one of the largest owners of agricultural land and the premier steward of the cultural and natural landscape of Massachusetts, The Trustees extends its leadership to transform the local food system by connecting residents and visitors back to the land and sharing the Commonwealth’s collective agrarian heritage through innovative retail and educational experiences at the Boston Public Market in the heart of downtown Boston. The KITCHEN is a community gathering place, managed by The Trustees, that is restoring the craft of seasonal cooking in Massachusetts, New England, and beyond through hands-on classes and educational experiences that celebrate the farmers and artisans of this region.  Partnered with the Boston Public Market, The KITCHEN embraces a whole-food approach to eating and promotes cooking as an essential cornerstone of a sustainable food system.  Join the Trustees and recieve discounts on KITCHEN events. Join here.  </description>
+      <start_time>2019-01-13 16:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-012315004-5</venue_id>
+      <venue_url>http://boston.eventful.com/venues/the-kitchen-presented-by-the-trustees-/V0-001-012315004-5?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>The KITCHEN presented by The Trustees</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>The Boston Public Market , 100 Hanover Street</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3624224</latitude>
+      <longitude>-71.0580511</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-10-02 07:00:13</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:21:23</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/380/035-5.jpeg_/farmtokitchen-cooking-class-seasonal-paleo-dollys-35.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-117642407-9">
+      <title>Boston Celtics Bus Trip</title>
+      <url>http://boston.eventful.com/events/boston-celtics-bus-trip-/E0-001-117642407-9?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Join Townsquare Media as we head down to TD Garden to watch the Boston Celtics take on the Oklahoma City Thunder on February 3, 2019. Tickets are $210 each and include a ticket to an action packed game and round-trip transportation from Presque Isle in a comfortable motor coach. No need to worry about driving, traffic or parking!There is an option to purchase a Halftime High Five Tunnel pass for kids 14 years and younger. This is a once in a lifetime opportunity for your child to be on the court high-fiving the players after halftime! They will also receive a special VIP credential pass.The bus leaves the Presque Isle Walmart at 5am. Please arrive at least 15 minutes prior to the 5:00am departure time. The bus will stop at the Houlton Walmart. Any additional pick ups will need to be arranged along the way by contacting Live Event Manager Sarah Ennis at 207-769-6600 or sarah.ennis@townsquaremedia.com. Tickets are non-refundable. Please print your confirmation and bring it with you. Tickets to the game will be handed out on the bus. Food and drinks are allowed on the bus, but no alcohol is allowed. The bus will make a stop at the Kennebunk Rest Area on the way down and back. Pairs will be seated together. Any group larger than a pair we will endeavor to seat the tickets together. If you are purchasing tickets separately, please email and let us know so we can try and seat you together. </description>
+      <start_time>2019-02-03 05:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-000509000-7</venue_id>
+      <venue_url>http://boston.eventful.com/venues/td-garden-/V0-001-000509000-7?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>TD Garden</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>100 Legends Way</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code>02114</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.366198</latitude>
+      <longitude>-71.062146</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-09-01 11:40:07</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:14:32</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/417/690-9.jpeg_/boston-celtics-bus-trip-90.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/417/690-9.jpeg_/boston-celtics-bus-trip-90.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/417/690-9.jpeg_/boston-celtics-bus-trip-90.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/417/690-9.jpeg_/boston-celtics-bus-trip-90.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-120306367-7">
+      <title>Well Aged</title>
+      <url>http://boston.eventful.com/events/well-aged-/E0-001-120306367-7?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Join me one more time before 2018 ends.  This time we explore a region close to my heart ... The Finger Lakes of Upstate NY. Born and raised 15 miles south of Ithaca, its the heart and soul of who I have become.  For this dinner I will be pairing cheeses from the Finger Lakes Cheese Cheese Alliance with Finger Lakes Wines I will be sharing tales of farms within a stones throw the school that not only raised me, but also my son, my daughter through 3rd grade and much of family and friends.  Its a bubble all it&amp;#39;s own that I can&amp;#39;t wait for you to explore and all on the eve of my 45th birthday ... come celebrate with me.  1st Course Engelbert Farms Organic Feta, Roasted Grape, Apple Tartlet (Nichols NY) Barry Family, Brian&amp;#39;s Bright Idea, Red Sparkling Wine, Finger Lakes Looking for something completely different? Look no further than this carbonated blend of Cabernet Franc, Riesling, Chardonnay, and some native grapes. Fun and fruity, yet completely dry, this is the ultimate odd-ball that seems to pair well with just about everything.    2nd Course Jerry Dell Farm Organic Cheddar Soup, Compressed Smoked Pears (Freeville, NY) Atwater Estate Vineyards, Dry Rose, Seneca Lake Juicy and ripe, this pretty dry Rose offers a bounty of black-plum and berry flavors glazed with caramelized sugar. Zippy acidity refreshes the mid-palate guiding an invigorating cherry-blossom finish.  3rd Course Muranda Cheese Company Bel Ciello Grilled Endive Caesar, Bel Ciello Ribbons, Cured Egg Yolk (Waterloo, NY) Dr. Konstantin Frank, Rkatsiteli, Keuka Lake Rkatsiteli, introduced to America by Dr. Konstantin Frank, has its origins on the slopes of mount Ararat, where winemaking began. The cool climate of this area produces a fruity wine with a light herbaceous aroma. Chilled, it goes well with salmon and other fish dishes, Chinese food and hearty dishes which might overpower more delicate wines. Dr. Konstantin Frank, known as &amp;quot;the father of vinifera&amp;quot; in the Eastern United States, pioneered viticultural methods that a generation of Eastern wineries have used to grow these superb varieties of European grapes. 4th Course Shtayburne Farm Cracked Pepper and Mushroom Pierogi, Creme Fraiche, Caviar (Rock Stream, NY) Six Mile Creek Winery, Seyval Blanc, Cayuga Lake Floral notes precede subtle hints of lemon and grass on the palate in this dry, crisp wine. The Finger Lakes&amp;#39; answer to Sauvignon Blanc. 5th Course  Side Hill Acres Goat Cheese, Beetroot Tartare, Mango, White Pumpkin &amp;quot;Crostini&amp;quot; (Candor, NY) Belhurst, Dry Reisling or  Eve&amp;#39;s Cidery, Autumn&amp;#39;s Gold, Cayuga Lake Traditional Method Dry Sparkling Cider. Apples on the orchard floor layered over aromas of toffee, dust, beeswax and hay lead to a muscular and embracing mid-palate with flavors of ripe red apple, wild mint and something animalistic. The finish is an interplay between sweet and bitter, the leathery tannin full and present amidst still ripe fruit and brown sugar.   6th Course Lively Run Cayuga Blue, Hanger Steak, Salt Potato Masa Harina Crusted Bravas (Interlaken, NY) Chateau LaFayette Reneau, Cabernet Sauvignon, Seneca Lake A delicious Cabernet opening with ripe cherry fruit in the nose and on the palate leading to a good balance of oak and soft tannins. Finishing with good acidity and chocolate. This wine will age very well for the next several years. 7th Course  Sunset View Creamery Smoked Havarti and Apple Beignets (Odessa, NY) Villa Bellangelo, Moscato, Semi-Sparkling, Seneca Lake Our 2012 Semi-sparkling Moscato is made from 100% Valvin Muscat grapes in the classic Italian &amp;quot;frizzante&amp;quot; (semi-sparkling) method. See why everyone is talking about this wine!Winemaker Notes: Aromas of lychee fruit, pineapple and tropical flowers highlight this sweet wine with a hint of carbonation that makes for a great appetizer or dessert pairing or  South Hill Cider, Pommeau, Cayuga Lake,  South Hill Pommeau is a blend of barrel-aged Apple Spirits (Eau de Vie) with unfermented and unfiltered apple cider. During months of aging, the pommeau naturally clarifies to an amber liquid of exquisite character. Tasting notes: still, sweet, honey, clove, nutmeg, amaretto, sun-warmed plum. Port-style cider. Possibly ... TOCAICE, Ventosa Vineyards, Senaca Lake (this one if actually my favorite of the vineyards) TASTING NOTES:Traditional Ice Wine made from the Italian varietal Tocai Friulano. An abundance of honey flavor, combined with sweetness, this dessert wine is perfect over ice cream or pound cake, or to just sip after dinner. 7 course pairing ... $100 Please Join Me.  </description>
+      <start_time>2018-12-19 18:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-013461821-7</venue_id>
+      <venue_url>http://boston.eventful.com/venues/tin-pan-alley-/V0-001-013461821-7?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Tin pan alley</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>Tin Pan Alley</venue_address>
+      <city_name>Provincetown</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.0583</latitude>
+      <longitude>-70.1792</longitude>
+      <geocode_type>City Based GeoCodes</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-11-19 05:49:15</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:20:10</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/811/374-0.jpeg_/well-aged-74.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/811/374-0.jpeg_/well-aged-74.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/811/374-0.jpeg_/well-aged-74.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/811/374-0.jpeg_/well-aged-74.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-120924519-4">
+      <title>Beaux Arts Boot Camp: The Still Life</title>
+      <url>http://boston.eventful.com/events/beaux-arts-boot-camp-still-life-/E0-001-120924519-4?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> “The true mystery of the world is the visible, not the invisible.” – Oscar Wilde Have you ever wanted to draw what you see? In this 3-hour still life workshop, Spaceus member Sharon Lacey will introduce students to some of the tried and true methods of the 19th century art academies. By learning how to sight properly, you will be able to draw accurate representations of things, stuff, and whatnot. Observational drawing is a valuable skill for artists and non-artists alike. It can deepen your engagement with reality, help you focus on the present moment, and inspire you to look longer at things. Drawing is a splendid, low-tech way to record your impressions of the visible world.  You’ll need drawing paper, pencils, and charcoal. About the instructor:  Painter Sharon Lacey studied the figure extensively at the New York Academy of Art, and continued her training in art historical techniques at the University of London. Her studio is located in Somerville, MA.  </description>
+      <start_time>2019-01-05 13:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-013212573-1</venue_id>
+      <venue_url>http://boston.eventful.com/venues/spaceus-/V0-001-013212573-1?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Spaceus</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>20 Brattle Street</venue_address>
+      <city_name>Cambridge</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3731163</latitude>
+      <longitude>-71.120252</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-12-08 07:14:06</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:14:06</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/987/089-7.jpeg_/beaux-arts-boot-camp-still-life-89.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/987/089-7.jpeg_/beaux-arts-boot-camp-still-life-89.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/987/089-7.jpeg_/beaux-arts-boot-camp-still-life-89.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/987/089-7.jpeg_/beaux-arts-boot-camp-still-life-89.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-118238709-8">
+      <title>Wines of Winter (Class + Dinner) | Boston Wine School @ VINOvations</title>
+      <url>http://boston.eventful.com/events/wines-winter-class-dinner-boston-wine-school-v-/E0-001-118238709-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> As we indulge in wholesome hearty food during the winter months, it is vital to find a wine that can stand up to the seasonal flavors. Winter wines are richer and spicier, offering depth and complexity, which perfectly complement winter dishes. However, choosing the right winter wine not only for your meal, but to lift your spirits and your body temperature can sometimes be difficult. Learn why it is so important to change your wine list during the colder months. Intrigued? Join Us… Appetizers and an assortment of cheeses will be served during class to introduce some of the fundamentals of pairing wine and food.  After class, we’ll clear our palates and our heads with an American barbecue dinner buffet paired with wine. DINNER MENU Barbecue chicken | Barbecue pork | Kansas City burnt ends | Rice &amp; beans | Collard greens | Potato salad | Chocolate whiskey cake YOUR EDUCATOR  Jonathon Alsop is founder and executive director of the Boston Wine School and author of The Wine Lover’s Devotional: 365 Days of Knowledge, Advice &amp; Lore for the Ardent Aficionado published by Quarry Books.  Jonathon started life as a wine writer covering wine, food and travel in 1988. He is author of the long-running wine column In Vino Veritas by Jonathon Alsop as well as many articles for the Associated Press, Frequent Flyer, La Vie Claire, Beverage Business Magazine, Mobil Travel Guides, Fodor’s Travel Guides, Boston Globe, and many others. He founded the Boston Wine School in 2000 where he teaches wine and food classes.   YOUR HOST VENUE VINOvations is a state of the art destination for wine lovers who want more than just the usual.  We strive to enhance our customers wine drinking experience by offering a vast selection of boutique wines from around the world.  We offer our guests the charm and amenities of a winery: our unique 2500 sq ft. event space includes a 40 bottle automated wine tasting room, private tasting stations, dual Chef’s Studio Kitchen, wine education &amp; much more. </description>
+      <start_time>2019-01-12 16:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-012198994-8</venue_id>
+      <venue_url>http://boston.eventful.com/venues/vinovations-sharon-ma-/V0-001-012198994-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>VINOvations | Sharon MA</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>2 Merchant Street #4</venue_address>
+      <city_name>Sharon</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.1179626</latitude>
+      <longitude>-71.2345804</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-09-19 04:13:34</created>
+      <owner>evdb</owner>
+      <modified>2018-12-08 07:14:24</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/548/103-9.jpeg_/wines-winter-class-dinner-boston-wine-school-vi-03.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/548/103-9.jpeg_/wines-winter-class-dinner-boston-wine-school-vi-03.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/548/103-9.jpeg_/wines-winter-class-dinner-boston-wine-school-vi-03.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/548/103-9.jpeg_/wines-winter-class-dinner-boston-wine-school-vi-03.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-120893967-6">
+      <title>Test Your Career Path: Using Career Assessments for Future Direction For Allston-Brighton Residents</title>
+      <url>http://boston.eventful.com/events/test-your-career-path-using-career-assessments-futu-/E0-001-120893967-6?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Can’t decide on your career direction?  Not sure what occupations might fit your personality, interests, and skills? This 4-part workshop can provide you with guidance by taking 3 of the most popular career assessments, Myers-Briggs Type Indicator, Strong Interest Inventory, and SkillScan and discussing the outcomes with a career coach. This series is for Allston-Brighton residents and Gardner Pilot Academy parents only. Our meeting dates are January 8, 10, 15 and 17 from 6:00-8:00 at the Harvard Ed Portal.  You must attend all sessions.  Workshop size is limited to 15 to ensure you get the support and attention you need.  This workshop is free. Registration Deadline is January 2, 2019 at 5:00 pm.You will need access to a computer, internet, email and a commitment to complete the pre-work (assessments) and assignments in between sessions.  If you do not have a computer you can use our Resource Center Monday through Friday from 10:00-3:00.Our presenter, Jane McHale has been a leader in the field of career development in Boston and is a long time Brighton resident and advocate. Her business, Jane McHale Career Services is well known for helping professionals achieve both career success and personal satisfaction.Jane’s Brand Attributes: Confidence Emitter, Truth-teller, Optimist, and Spark!Check out her web site is www.janemchale.comPlease note: You must be a resident of Allston-Brighton or be the parent/guardian of a student who attends the Gardner Pilot Academy to attend this course. The Harvard Ed Portal reserves the right to cancel RSVPs for registrants who do not meet these requirements.  To learn about membership to go: https://edportal.harvard.edu/ </description>
+      <start_time>2019-01-08 18:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-004734819-9</venue_id>
+      <venue_url>http://boston.eventful.com/venues/harvard-allston-education-portal-/V0-001-004734819-9?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Harvard Allston Education Portal</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>224 Western Avenue</venue_address>
+      <city_name>Allston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code>02134</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.3626035</latitude>
+      <longitude>-71.1311981</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-12-07 10:33:06</created>
+      <owner>evdb</owner>
+      <modified>2018-12-07 10:33:06</modified>
+      <performers></performers>
+      <image>
+        <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/979/317-2.jpeg_/test-your-career-path-using-career-assessments-fut-17.jpeg</url>
+        <width>48</width>
+        <height>48</height>
+        <caption></caption>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/thumb/I0-001/041/979/317-2.jpeg_/test-your-career-path-using-career-assessments-fut-17.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <small>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/small/I0-001/041/979/317-2.jpeg_/test-your-career-path-using-career-assessments-fut-17.jpeg</url>
+          <width>48</width>
+          <height>48</height>
+        </small>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/images/medium/I0-001/041/979/317-2.jpeg_/test-your-career-path-using-career-assessments-fut-17.jpeg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-117803434-8">
+      <title>Finance for Poets</title>
+      <url>http://boston.eventful.com/events/finance-poets-/E0-001-117803434-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> TSNE MissionWorks&amp;#39; Better Nonprofit Management Training Series runs from September 2017 to June 2018. Join us this year as we present workshops on essentials issues in nonprofit management such as supervision, financial management, fundraising, communications, and more! We have trained more than 3,000 nonprofit professionals on the skills needed to take the lead in their work and their careers. Visit for full workshop descriptions and series information: http://www.tsne.org/bnmts/workshops Workshop Description Many nonprofit leaders advance in their careers because of their “programmatic” excellence. They are tireless advocates, gifted clinicians, and imaginative designers of services. Their frontline experiences enhance their effectiveness as managers. They become trusted leaders of programs and people. Too often, however, the nonprofit leader’s career path leaves an “experience gap” when it comes to financial management. Although leaders may have dealt with budgets and funders at the program level, when they move into executive positions they need to adopt an unfamiliar organizational perspective and a strategic approach to financial matters. For many nonprofit leaders, this experience gap is a source of anxiety and frustration. For some, it fosters avoidance of financial issues – even when the leader knows that these issues are crucial to the organization’s health and service to the community. If this scenario resonates with you, then this workshop is for you. The Finance for Poets workshop is designed for nonprofit leaders who do not have formal training or deep experience in accounting or financial management. It is especially focused on helping these leaders overcome the barriers of jargon and intimidation that obstruct them from engaging fully in financial discussions with colleagues, board members, and external stakeholders. We won’t talk down to you. Rather, we will respect your intelligence and boost your confidence so that you can embrace financial management rather than avoid it. Learning Objectives We will explore the budgeting process through hands-on exercises and lively discussion. We’ll see that the core idea of budgeting is planning and that communication is more important than calculation. If you can plan a family vacation, you can lead an effective budget process. We will explain the basic financial statements that every corporation — from a telecommunications giant to a neighborhood soup kitchen — uses to tell the story of its financial condition and performance. We’ll also identify the many issues that financial statements do not address. We will explain the value of an independent audit and how it is conducted. We’ll provide time for questions and open, collaborative discussion. Bring your good spirits, your open mind, your unpublished haiku, your art history degree, and the questions you were afraid to ask anyone else. Together, we’ll get past the jargon and focus on what nonprofit leaders need to know and do in the domain of financial management to build strong organizations. Target Audience Rising nonprofit managers with little or no background in financial management, non-classically trained financial staff, wearers of many hats. About the Trainer David Stolow joined the Boston University School of Management in 2011 as the Faculty Director for the Public and Nonprofit Management Program. He teaches courses on nonprofit financial management, fundraising and philanthropy, and social entrepreneurship for MBA students and undergraduates. He is also a lead instructor for BU’s certificate program in nonprofit management and leadership for mid-career nonprofit professionals. Prior to joining the Boston University faculty full-time, David served from 2001-2011 as Director of Strategic Development at Citizen Schools, a national nonprofit network of extended-day and after-school programs. David was primarily responsible for securing resources and managing partnerships with national foundations and federal agencies such as the Corporation for National and Community Service and the National Science Foundation. He also helped to lead Citizen Schools’ Teaching Fellowship, which recruits 200+ aspiring educators to serve for two years as front-line teachers, mentors, and community builders in high-need schools. Prior to joining Citizen Schools, David worked for 11 years in nonprofit financial management in the Boston area. He served as Director of Finance for TERC, a developer of innovative math and science curriculum. He served as Chief Financial Officer for City Year when City Year launched its national expansion. He then worked as Chief Financial Officer for Boston Community Capital, a leading Community Development Financial Institution. At The Home for Little Wanderers, one of New England’s largest child welfare agencies, David was the Director of Financial Strategy and later Chief Financial Officer. David has served on the Board of Directors of Bright Futures Adoption Center, the Massachusetts Youth Service Alliance, Boston Children’s Services, Health Leads, and Generations Incorporated and he currently serves on the Loan Committee of Boston Community Loan Fund and the Board of Trustees of the Aloha Foundation. He has conducted trainings on financial management, nonprofit governance, and social entrepreneurship for diverse organizations and audiences, including New Sector Alliance, OnBoard, Hartford Foundation for Public Giving, Health Leads, the Posse Foundation, Net Impact, and Hebrew College. David graduated summa cum laude from Yale University and holds a Master’s Degree in Public and Private Management from the Yale School of Management. FAQ What is the refund policy? Cancellations must be made via email at least 10 business days prior to the date of the workshop in order to receive a refund (less a $15 processing fee). Email trainings@tsne.org should you need to cancel your registration.   Where are your workshops located? Unless otherwise noted, all workshops are held at TSNE MissionWorks&amp;#39; NonProfit Center, conveniently located in Downtown Boston at 89 South Street, Boston 02111, near public transportation. For detailed directions, helpful information about visiting the NonProfit Center, and parking options please visit http://www.nonprofitcenterboston.org/directions   Are there ID requirements? You will need valid identification to check in with security at the building&amp;#39;s front desk.   Do I have to bring my printed ticket to the event? No, we will have a list of attendees when you arrive to the NonProfit Center.   Additional Questions? Contact us at trainings@tsne.org </description>
+      <start_time>2018-12-21 09:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-008664791-0</venue_id>
+      <venue_url>http://boston.eventful.com/venues/nonprofit-center-/V0-001-008664791-0?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>NonProfit Center</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>89 South Street</venue_address>
+      <city_name>Boston</city_name>
+      <region_name>Massachusetts</region_name>
+      <region_abbr>MA</region_abbr>
+      <postal_code>02111</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>42.351844</latitude>
+      <longitude>-71.057489</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2018-09-07 05:05:36</created>
+      <owner>evdb</owner>
+      <modified>2018-11-29 21:53:05</modified>
+      <performers></performers>
+      <image>
+        <thumb>
+          <url>http://d1marr3m5x4iac.cloudfront.net/store/skin/no_image/categories/48x48/other.jpg</url>
+          <width>48</width>
+          <height>48</height>
+        </thumb>
+        <medium>
+          <url>http://d1marr3m5x4iac.cloudfront.net/store/skin/no_image/categories/128x128/other.jpg</url>
+          <width>128</width>
+          <height>128</height>
+        </medium>
+      </image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+  </events>
+</search>

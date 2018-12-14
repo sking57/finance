@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Local Events
+{% endblock %}
+
+{% block main %}
+  <p id = "eventstitle">Here are some things going on in the Boston area:</p>
+  <table class="table table-bordered" id="events">
+    <thead>
+      <tr class="table-info">
+        <th scope="col">Event Title</th>
+        <th scope="col">Description</th>
+        <th scope="col">URL</th>
+        <th scope="col">Date/Time</th>
+        <th scope="col">Address</th>
+        <th scope="col">City</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for result in results %}
+        <tr>
+          <td>{{result["title"]}}</td>
+          <td id="desc">{{result["description"]}}</td>
+          <td id="url"> <a href = "{{result["url"]}}" target="_blank"> More info here </a></td>
+          <td>{{result["start_time"]}}</td>
+          <td>{{result["venue_address"]}}</td>
+          <td>{{result["city_name"]}}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <footer class="small text-center text-muted">
+    Data provided for free by <a href="https://api.eventful.com/docs/events/search">Eventful API Methods</a>. View <a href="https://api.eventful.com/terms.">Eventful Terms</a>
+  </footer>
+{% endblock %}
+

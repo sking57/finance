@@ -1,0 +1,155 @@
+nav .navbar-brand
+{
+    /* size for brand */
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Amatic SC', sans-serif;
+}
+
+/* colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .peach
+{
+    color: #BC8F8F;
+}
+nav .navbar-brand .yellow
+{
+    color: #FFFF00;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+nav .navbar-brand .purple
+{
+    color: #9370DB;
+}
+
+main .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+main
+{
+    /* scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* center contents */
+    text-align: center;
+}
+
+main img
+{
+    /* constrain images on small screens */
+    max-width: 100%;
+}
+
+body
+{
+    background-color: lavender;
+}
+
+#title
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: cornflowerblue;
+}
+
+.question
+{
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+.answer
+{
+    font-size: 16px;
+    font-family: Verdana, Geneva, sans-serif
+}
+
+#form
+{
+    text-align: left;
+}
+
+.toys
+{
+    width:250px;
+    height:200px;
+}
+
+.places
+{
+    width:300px;
+    height:200px;
+}
+
+.scent
+{
+    width:200px;
+    height:200px;
+}
+
+.welcome
+{
+    font-size: 35px;
+    font-weight: bold;
+    color: royalblue;
+    font-family: "Comic Sans MS", sans-serif;
+}
+#eventstitle
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: cornflowerblue;
+    font-family: "Comic Sans MS", sans-serif;
+}
+#intro
+{
+    font-size: 17px;
+}
+.image
+{
+    width:180px;
+    height:180px;
+}
+#explanation
+{
+    font-style:italic;
+}
+.result
+{
+    width:400px;
+    height:300px;
+}
+#desc
+{
+    width:40%;
+}
+.table
+{
+    border-width: medium;
+    border-color: black;
+}
+#city1
+{
+    width:450px;
+    height:220px;
+}
+#city2
+{
+    width:500px;
+    height:200px;
+}
+#smalltext
+{
+    font-size: 12px;
+}

@@ -1,0 +1,204 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Survey
+{% endblock %}
+
+{% block main %}
+
+    <!-- http://getbootstrap.com/docs/4.1/content/typography/ -->
+    <h1 class="mb-3" id="title">Survey</h1> <br>
+
+    <!-- http://getbootstrap.com/docs/4.1/components/forms/ -->
+    <form action="/survey" method="post" id="form">
+        <div>
+          <label>Name:</label> &nbsp; &nbsp;
+          <input type="text" class="form-control" placeholder="Name" name="name">
+        </div><br>
+
+        <p id="freetime" class="question">Approximately how many hours of free time do you have?</p>
+        <div class="answer">
+            <input type="radio" name="time" value="1"> 1 (I'm lame) <br>
+            <input type="radio" name="time" value="2"> 2 (decently free but I also have some other things to do)<br>
+            <input type="radio" name="time" value="3"> 3 (pretty darn free) <br>
+            <input type="radio" name="time" value="4"> ENDLESS AMOUNTS OF FREE TIME<br><br>
+        </div>
+
+
+        <p id="scent" class="question">Pick your favorite scent</p>
+            <label>
+                <input type="radio" name="scent" value="1"/>
+                <img class="scent" id="paprika" src="https://i5.walmartimages.com/asr/19eec093-232d-4734-a601-48b110263557_1.c758103a7300d613b4a5356204f6382e.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt="paprika">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="scent" value="2" />
+                <img class="scent" id="edamame" src="https://www.garlicandzest.com/wp-content/uploads/2014/02/blistered-edamame-9.jpg" alt="steaming edamame">
+            </label> <br>
+            <label>
+                <input type="radio" name="scent" value="3" />
+                <img class="scent" id="vanilla" src="https://thebasicssyracuse.com/wp-content/uploads/2016/10/vanilla-beans-extract-flower.jpg" alt="vanilla">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="scent" value="4" />
+                <img class="scent" id="grass" src="https://www.scienceabc.com/wp-content/uploads/2015/12/Mowing-Grass.jpg" alt="freshly cut grass">
+            </label> <br><br>
+
+        <p id="WP" class="question">Waffles or Pancakes...</p>
+        <div class="answer">
+            <input type="radio" name="WP" value="1"> Waffles<br>
+            <input type="radio" name="WP" value="2"> Pancakes<br>
+            <input type="radio" name="WP" value="3"> Neither<br>
+            <input type="radio" name="WP" value="4"> Both<br><br>
+        </div>
+
+        <p id="island" class="question">You're stuck on a desert island... which item would you want with you?</p>
+        <div class="answer">
+            <input type="radio" name="island" value="1"> Hairbrush <br>
+            <input type="radio" name="island" value="2"> Cracklin Oat Bran<br>
+            <input type="radio" name="island" value="3"> Diary of a Wimpy Kid<br>
+            <input type="radio" name="island" value="4"> A compass<br><br>
+        </div>
+
+        <p id="romance" class="question">What kind of romantic relationship are you looking for (or are already in)?</p>
+        <div class="answer">
+            <input type="radio" name="romance" value="1"> Committed<br>
+            <input type="radio" name="romance" value="2"> I don't need nobody<br>
+            <input type="radio" name="romance" value="3"> Open relationship<br>
+            <input type="radio" name="romance" value="4"> Idk<br><br>
+        </div>
+
+        <div id="toys" class="question"> Which toy would you most like to play with? </p></p>
+            <label>
+                <input type="radio" name="toy" value="1" />
+                <img class="toys" id="shark" src="https://www.dhresource.com/0x0s/f2-albu-g7-M00-1E-95-rBVaSlqyDTaAKD39AANg7SEGl5w053.jpg/2018-new-funny-children-bath-toys-powered.jpg" alt="shark">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="toy" value="2" />
+                <img class="toys" id="putty" src="https://static.shoplightspeed.com/shops/607206/files/002778147/toysmith-original-silly-putty.jpg" alt="putty">
+            </label><br>
+            <label>
+                <input type="radio" name="toy" value="3" />
+                <img class="toys" id="puzzle" src="https://media.istockphoto.com/photos/jigsaw-puzzle-picture-id512160452?k=6&m=512160452&s=612x612&w=0&h=0sRNH5F-KsdeCBq5dSkHFzoU92YaPXZSP-V8O-RYNKI=" alt="puzzle">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="toy" value="4" />
+                <img class="toys" id="box" src="https://images-na.ssl-images-amazon.com/images/I/81Kl2pEOoNL._SY450_.jpg" alt="box">
+            </label><br><br>
+
+        <p id="game" class="question">What is your favorite video game?</p>
+        <div class="answer">
+            <input type="radio" name="game" value="1"> COD (call of duty DUH)<br>
+            <input type="radio" name="game" value="2"> Candy Crush<br>
+            <input type="radio" name="game" value="3"> Doodle Jump<br>
+            <input type="radio" name="game" value="4"> What is a video game...<br><br>
+        </div>
+
+        <p id="actor" class="question">Who is your favorite actor?</p>
+        <div class="answer">
+            <input type="radio" name="actor" value="1"> Leonardo DiCaprio (*swoon*)<br>
+            <input type="radio" name="actor" value="2"> Reese Witherspoon<br>
+            <input type="radio" name="actor" value="3"> Jackie Chan<br>
+            <input type="radio" name="actor" value="4"> Who are any of these people?<br><br>
+        </div>
+
+        <p id="places" class="question">Where would you most want to go? </p>
+            <label>
+                <input type="radio" name="places" value="1" />
+                <img class="places" id="mountain" src="https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F180105163452-kitzbuhel-resort-guide-8.jpg" alt="mountain">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="places" value="2" />
+                <img class="places" id="beach" src="https://www.atlantisbahamas.com/media/Things%20To%20Do/Water%20Park/Beaches/Hero/Experiences_Beach.jpg" alt="beach">
+            </label> <br>
+            <label>
+                <input type="radio" name="places" value="3" />
+                <img class="places" id="desert" src="https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/ced1d873f839419483663e9a0e5ef5c4" alt="desert">
+            </label> &nbsp; &nbsp; &nbsp;
+            <label>
+                <input type="radio" name="places" value="4" />
+                <img class="places" id="library" src="https://scholarlykitchen.sspnet.org/wp-content/uploads/2016/11/istock_78312587_medium.jpg" alt="library">
+            </label> <br><br>
+
+        <p id="jokes" class="question">Which type of joke do you think is most funny? </p>
+        <div class="answer">
+            <input type="radio" name="joke" value="1"> Why did the chicken cross the road? <br>
+            <input type="radio" name="joke" value="2"> I don't "do jokes"<br>
+            <input type="radio" name="joke" value="3"> Dad jokes only<br>
+            <input type="radio" name="joke" value="4"> Knock knock jokes<br><br>
+        </div>
+
+        <!-- http://getbootstrap.com/docs/4.1/components/buttons/ -->
+        <button class="btn btn-primary" type="submit" class = "form-group row">SUBMIT (tell me what to do!)</button>
+    </form>
+
+    <script>
+            // Validate submission
+        document.querySelector('form').onsubmit = function() {
+
+            // Validate name
+            let name = document.querySelector('input[name=name]');
+            if (!name.value) {
+                alert('You must specify your name!');
+                name.focus();
+                return false;
+            }
+
+            // Validate radio inputs
+            let time = document.querySelector('input[name=time]:checked');
+            if (!time || !time.value) {
+                alert('You must specify how much free time you have!');
+                return false;
+            }
+            let scent = document.querySelector('input[name=scent]:checked');
+            if (!scent || !scent.value) {
+                alert('You must specify your preferred scent!');
+                return false;
+            }
+            let WP = document.querySelector('input[name=WP]:checked');
+            if (!WP || !WP.value) {
+                alert('You must specify your waffle/pancake preference!');
+                return false;
+            }
+            let island = document.querySelector('input[name=island]:checked');
+            if (!island || !island.value) {
+                alert('You must specify your island object!');
+                return false;
+            }
+            let romance = document.querySelector('input[name=romance]:checked');
+            if (!romance || !romance.value) {
+                alert('You must specify your romance status!');
+                return false;
+            }
+            // Validate radio inputs
+            let toy = document.querySelector('input[name=toy]:checked');
+            if (!toy || !toy.value) {
+                alert('You must specify your preferred toy!');
+                return false;
+            }
+            let game = document.querySelector('input[name=game]:checked');
+            if (!game || !game.value) {
+                alert('You must specify your preferred video game!');
+                return false;
+            }
+            let actor = document.querySelector('input[name=actor]:checked');
+            if (!actor || !actor.value) {
+                alert('You must specify your preferred actor!');
+                return false;
+            }
+            let places = document.querySelector('input[name=places]:checked');
+            if (!places || !places.value) {
+                alert('You must specify your preferred destination!');
+                return false;
+            }
+            let joke = document.querySelector('input[name=joke]:checked');
+            if (!joke || !joke.value) {
+                alert('You must specify your preferred joke!');
+                return false;
+            }
+            return true;
+        };
+
+    </script>
+
+
+{% endblock %}
