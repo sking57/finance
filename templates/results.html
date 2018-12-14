@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Results
+{% endblock %}
+
+{% block main %}
+    <p class="welcome">
+        Your results!
+    </p>
+    <p class="answer" id="explanation">
+        ~Our algorithm determines what kind of person you are and recommends a certain activity that we think you would enjoy~
+    </p>
+    <p class="answer">
+        {{ name }}, {{ personality }}
+    </p>
+    <p class="answer">
+        {{ description }}
+    </p>
+    <p>
+        Find more information <a href = "{{ extra }}" target="_blank"> HERE </a>
+    </p>
+    <div>
+        <img class="result" id="1" src= "{{ im1 }}" alt="what you will be doing"> <img class="result" id="2" src= "{{ im2 }}" alt="what you will be doing">
+    </div>
+{% endblock %}
